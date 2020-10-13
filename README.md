@@ -1,3 +1,4 @@
+![](ipa.gif)
 # Instagram Posting Automation
 
 This script is to automate instagram uploading at specific times.
