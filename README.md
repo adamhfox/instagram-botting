@@ -1,4 +1,4 @@
-# instagram-botting
+# Instagram Posting Automation
 
 This script is to automate instagram uploading at specific times.
 Install libraries in python file.
